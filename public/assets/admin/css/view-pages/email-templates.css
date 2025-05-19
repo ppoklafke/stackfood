@@ -1,0 +1,65 @@
+.email-template-social-span{
+  text-align: center;
+}
+.email-template-social-media{
+    margin: 0.5px;
+    text-decoration: none;
+}
+.email-template-table-td-width{
+    width: 40%;
+}
+.email-template-table-td-max-width{
+    width: 130px;
+}
+.email-template-otp{
+    font-size: 26px;
+    margin: 0;
+    letter-spacing: 4px;
+}
+.email-template-table-style {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background: #fff;
+}
+.email-template-table-td-style {
+    padding:30px 30px 0;
+}
+.email-template-table-td-style-2 {
+    padding:0 30px 30px;
+    text-align:left;
+}
+.email-template-table-td-title-style {
+   font-size: 17px;
+    font-weight: 500;
+}
+.email-template-table-td-span {
+    font-weight:500;
+    display:block;
+    margin: 20px 0 11px;
+}
+.email-template-table-td-span-2 {
+     display:block;
+     margin-bottom:14px;
+}
+.email-template-table-td-span-h-ref {
+    color: #0177CD;
+}
+.email-template-table-td-span-3 {
+    margin-bottom:14px;
+}
+.email-template-table-td-span-4 {
+     margin-bottom:20px;
+}
+.email-template-img {
+    width:100px;
+    display:block;
+    margin:10px auto;
+}
+.email-template-06-span {
+    margin-top: 16px;
+}
+.email-template-09-max-width {
+    max-width:130px;
+}

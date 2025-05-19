@@ -1,0 +1,275 @@
+[
+    {
+        "routeName": "Dashboard",
+        "URI": "restaurant-panel",
+        "keywords": "Dashboard Followup Warning! There Isn\u2019t Enough Quantity On Stock Please Check Products In Product List Remind Me Later Click To View More Products Have Out Of Stock This Product Is Out Of Stock Order Statistics Overall Statistics Want To Get Highlighted Create Ads To Get Highlighted On The App And Web Browser Create Ads Yearly Statistics Commission Given Total Earning Currency Jan Feb Mar April May Jun Jul Aug Sep Oct Nov Dec Welcome Employee Welcome Message",
+        "bladePath": "vendor-views/dashboard",
+        "isModified": true
+    },
+    {
+        "routeName": "Reviews",
+        "URI": "restaurant-panel/reviews",
+        "keywords": "Review List Customers Reviews Ex Search By Food Name Or Phone Sl Food Reviewer Review Date Action Order ID Food Deleted! Customer Not Found View Reply Give Reply Write Your Reply Here Update Reply Send Reply No Data Found",
+        "bladePath": "vendor-views/review/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Point Of Sale (POS)",
+        "URI": "restaurant-panel/pos",
+        "keywords": "Pos Food Section Select Category All Categories Ex Search Food Name Search Here To Get Required Search Result First Select Zone & Then Restaurant To Search Category Wise Food Or Search Manually To Find Food Under That Restaurant Billing Section Walk In Customer Add New Customer Delivery Information Print Invoice Delivery Options Contact Person Name Ex Contact Number Road House Floor Address Update Delivery Address Add New Customer First Name Last Name Email Ex Ex@example Com Phone With Country Code Reset Save Location Found Out Of Coverage The Geolocation Service Failed Product Already Added In Cart Product Has Been Updated In Cart Product Quantity Updated In Cart Sorry Product Out Of Stock Product Has Been Added In Cart Item Has Been Removed From Cart Cart Quantity Unavailable Point Of Sale",
+        "bladePath": "vendor-views/pos/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Advertisement List",
+        "URI": "restaurant-panel/advertisement",
+        "keywords": "Advertisement Pending List Advertisement List Uh Oh! You Didn\u2019t Created Any Advertisement Yet Create Ads By Creating Advertisement You Can Showcase Your Items Or Restaurant To A Wider Audience Through Targeted Ad Campaigns Ads List New Advertisement Search By Ads ID Or Restaurant Name Search Here All Ads Running Approved Expired Denied Sl Ads ID Ads Type Ads Title Duration Status Action Paused Expired View Ads Edit & Resubmit Ads Do You Want To Edit Your Ad Is Running If You Edit This Ad It Will Be Listed For Pending And Needs To Be Approved By The Admin After The Approval It Will Be Running Again Yes Edit Edit Ads Are You Sure You Want To Resume The Request This Ad Will Be Run Again And Will Show In The User App & Websites Resume Ads Are You Sure You Want To Pause The Request This Ad Will Be Pause And Not Show In The User App & Websites Pause Ads Copy Ads You Can\u2019t Delete The Ad This Advertisement Is Currently Running To Delete This Ad From The List Please Resume The Ad First Once The Status Is Updated You Can Proceed With Deletion Confirm Ad Deletion Deleting This Ad Will Remove It Permanently Are You Sure You Want To Proceed Delete Ads No Data Found Ad Created Successfully! Congratulations On Creating Your Ad! It\u2019s Now Awaiting Approval To Finalize The Process & Make Payment Arrangements Please Contact Our Admin Directly We Look Forward To Helping You Boost Your Visibility & Reach More Customers Okay",
+        "bladePath": "vendor-views/advertisement/list",
+        "isModified": true
+    },
+    {
+        "routeName": "Advertisement Create",
+        "URI": "restaurant-panel/advertisement/create",
+        "keywords": "Create Advertisement Default Advertisement Title Default Exclusive Offer Short Description Get Discount Advertisement Type Video Promotion Restaurant Promotion Validity Upload Related Files Upload Your Video  Maximum MB Supports MP WEBM MKV Show Review Ratings Review Rating Profile Image Ratio Supports PNG JPG JPEG WEBP Upload Cover Advertisement Preview Your Browser Does Not Support The Video Tag Title Description Reset Submit Select Date",
+        "bladePath": "vendor-views/advertisement/create",
+        "isModified": true
+    },
+    {
+        "routeName": "Category Add",
+        "URI": "restaurant-panel/category/list",
+        "keywords": "Category Category List Ex Search By Category Name Search Categories Sl Image Category Id Category Name No Data Found Category Add",
+        "bladePath": "vendor-views/category/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Add Sub Category",
+        "URI": "restaurant-panel/category/sub-category-list",
+        "keywords": "Sub Category Sub Category List Ex Search By Sub Categories Search Sub Categories Sl Id Category No Data Found No Data To Show Add Sub Category",
+        "bladePath": "vendor-views/category/sub-index",
+        "isModified": true
+    },
+    {
+        "routeName": "Role Create",
+        "URI": "restaurant-panel/custom-role/create",
+        "keywords": "Create Role Employee Role Role Form Default Role Name Role Name Example Module Permission Select All Food Order Restaurant Setup Addon Wallet Employee My Shop Chat Campaign Reviews Pos Subscription Coupon Report Reset Submit Roles Table Ex Search By Role Name Search Sl Modules Created At Action Edit Role Want To Delete This Role Delete Role No Data Found",
+        "bladePath": "vendor-views/custom-role/create",
+        "isModified": true
+    },
+    {
+        "routeName": "Deliveryman Add",
+        "URI": "restaurant-panel/delivery-man/add",
+        "keywords": "Add New Deliveryman General Information First Name Last Name Identity Type Passport Driving License Nid Identity Number Ex DH LS Identity Image Ratio Deliveryman Image Choose File Account Info Phone Ex ******** Email Ex Ex@example Com Password Must Contain At Least One Number And One Uppercase And Lowercase Letter And Symbol And At Least Or More Characters Ex + Character Password Length + Reset Submit",
+        "bladePath": "vendor-views/delivery-man/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Deliveryman List",
+        "URI": "restaurant-panel/delivery-man/list",
+        "keywords": "Deliverymen Deliveryman List Ex Search Sl Name Availability Status Phone Active Orders Action Currenty Assigned Orders Active Status Online Offline Denied Not Approved Edit Want To Remove This Deliveryman Delete No Data Found",
+        "bladePath": "vendor-views/delivery-man/list",
+        "isModified": true
+    },
+    {
+        "routeName": "Review List",
+        "URI": "restaurant-panel/delivery-man/reviews/list",
+        "keywords": "Review List Deliveryman Reviews # Deliveryman Customer Review Rating Customer Not Found",
+        "bladePath": "vendor-views/delivery-man/reviews-list",
+        "isModified": true
+    },
+    {
+        "routeName": "Employee Add New",
+        "URI": "restaurant-panel/employee/add-new",
+        "keywords": "Employee Add Add New Employee General Information First Name Ex Sakeef Ameer Last Name Ex Prodhan Phone Ex +******** Role Select Role Employee Image Ratio ( ) Employee Image Size Max MB Choose File Account Info Email Ex Ex@gmail Com Password Must Contain At Least One Number And One Uppercase And Lowercase Letter And Symbol And At Least Or More Characters Ex + Character Password Length + Confirm Password Reset Submit",
+        "bladePath": "vendor-views/employee/add-new",
+        "isModified": true
+    },
+    {
+        "routeName": "Employee List",
+        "URI": "restaurant-panel/employee/list",
+        "keywords": "Employee List Employee List Add New Employee Ex Search By Employee Name Email Or Phone No Export Download Options Excel Csv Sl Name Email Phone Role Action Role Deleted Edit Employee Want To Delete This Role Delete Employee No Data Found",
+        "bladePath": "vendor-views/employee/list",
+        "isModified": true
+    },
+    {
+        "routeName": "Food Add New",
+        "URI": "restaurant-panel/food/add-new",
+        "keywords": "Add New Food Default Name New Food Short Description Food Image Ratio X Restaurants & Category Info Category Select Category Sub Category Category Required Warning Select Sub Category Food Type Select Preferences Non Veg Veg Nutrition Specify The Necessary Keywords Relating To Energy Values For The Item And Type This Content & Press Enter Type Your Content And Press Enter Allegren Ingredients Specify The Ingredients Of The Item Which Can Make A Reaction As An Allergen And Type This Content & Press Enter Is It Halal Addon Select Add On Restaurant Required Warning Availability Available Time Starts Ex Available Time Ends Price Information Unit Price Discount Type Percent Amount Discount Currently You Need To Manage Discount With The Restaurant Maximum Purchase Quantity Limit If This Limit Is Exceeded Customers Can Not Buy The Food In A Single Purchase Stock Type Unlimited Stock Limited Stock Daily Stock Item Stock This Stock Amount Will Be Counted As The Base Stock But If You Want To Manage Variation Wise Stock Then Need To Manage It Below With Food Variation Setup Food Variations Add New Variation Tags Reset Submit Unlimited Required Delete Variation Selection Type Multiple Selection Single Selection Min Max Option Name Additional Price Stock Add New Option Product Added Successfully",
+        "bladePath": "vendor-views/product/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Food List",
+        "URI": "restaurant-panel/food/list",
+        "keywords": "Food List Out Of Stock Foods Add New Food Ex Search Food Name Select Category Main Sub All Categories All Veg Non Veg Columns Name Type Status Price Action Sl Name Category Price Recommended Status Action Out Of Stock Your Main Stock Is Out Of Stock One Or More Variations Are Out Of Stock Uncategorize Recommend To Customers Change Food Visibility To Customers Update Stock Edit Food Want To Delete This Item Delete Food Veg Non Veg Discount Addons No Addons Found Main Stock Variation Stock Update No Data Found No Data To Show",
+        "bladePath": "vendor-views/product/list",
+        "isModified": true
+    },
+    {
+        "routeName": "Stock Out List",
+        "URI": "restaurant-panel/food/out-of-stock-list",
+        "keywords": "Out Of Stock Out Of Stock Foods All Foods Add New Food Ex Search Food Name Select Category Main Sub All Categories All Veg Non Veg Columns Name Type Status Price Action Sl Name Category Price Recommended Status Action Out Of Stock Uncategorize Recommend To Customers Change Food Visibility To Customers Update Stock Veg Non Veg Discount Addons No Addons Found Main Stock Variation Stock Update No Data Found No Data To Show",
+        "bladePath": "vendor-views/product/out_of_stock_list",
+        "isModified": true
+    },
+    {
+        "routeName": "Foods Bulk Import",
+        "URI": "restaurant-panel/food/bulk-import",
+        "keywords": "Foods Bulk Import STEP Download Excel File Match Spread Sheet Data According To Instruction Validate Data And And Complete Import Instructions Download The Format File And Fill It With Proper Data You Can Download The Example File To Understand How The Data Must Be Filled Once You Have Downloaded And Filled The Format File Upload It In The Form Below And Submit After Uploading Foods You Need To Edit Them And Set Image And Variations You Can Get Category Id From Their List Please Input The Right Ids Don`t Forget To Fill All The Fields For Veg Food Enter And For Non Veg Enter On Veg Field Image File Name Must Be In Character Download Spreadsheet Template Template With Existing Data Template Without Data Import Restaurants Choose File Reset Update Import Food Variations Generator Add New Variation Generate Add New Name Selcetion Type Multiple Selection Single Selection Min Max Required Delete Option Name Additional Price Add New Option Are You Sure You Want To No Yes",
+        "bladePath": "vendor-views/product/bulk-import",
+        "isModified": true
+    },
+    {
+        "routeName": "Campaign List",
+        "URI": "restaurant-panel/campaign/list",
+        "keywords": "Campaign List Campaign Ex Search By Title Name Search Sl Title Image Date Duration Time Duration Status Action Not Approved Confirmed Rejected Rejected Alert Restaurant Out From Campaign Leave Campaign Alert Restaurant Join Campaign Join Campaign No Data Found",
+        "bladePath": "vendor-views/campaign/list",
+        "isModified": true
+    },
+    {
+        "routeName": "campaign Item list",
+        "URI": "restaurant-panel/campaign/item/list",
+        "keywords": "Campaign List Food Campaign Search By Title Search Here Sl Title Date Time Price No Data Found",
+        "bladePath": "vendor-views/campaign/food_list",
+        "isModified": true
+    },
+    {
+        "routeName": "Wallet",
+        "URI": "restaurant-panel/wallet",
+        "keywords": "Restaurant Wallet Sl Amount Request Time Withdraw Method Transaction Type Status Note Action Withdraw Method Details Close Default Method Wallet Adjustment Withdraw Request Disbursement Pending Approved Denied Adjusted Amount Partially Adjusted Amount N/A Want To Delete This Delete Complete No Data Found Pay Via Online Faster & Secure Way To Pay Bill No Payment Gateway Found Proceed Adjust Wallet This Will Adjust The Collected Cash On Your Earning Currently There Are No Payment Options Available Please Contact Admin Regarding Any Payment Process Or Queries",
+        "bladePath": "vendor-views/wallet/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Wallet Payment List",
+        "URI": "restaurant-panel/wallet/wallet-payment-list",
+        "keywords": "Restaurant Wallet Sl Amount Payment Time Payment Method Status Default Method Approved No Data Found Pay Via Online Faster & Secure Way To Pay Bill No Payment Gateway Found Close Proceed Adjust Wallet This Will Adjust The Collected Cash On Your Earning Currently There Are No Payment Options Available Please Contact Admin Regarding Any Payment Process Or Queries",
+        "bladePath": "vendor-views/wallet/payment_list",
+        "isModified": true
+    },
+    {
+        "routeName": "Disbursements List",
+        "URI": "restaurant-panel/wallet/disbursement-list",
+        "keywords": "Restaurant Wallet Total Disbursements Search By ID Export Download Options Excel Csv Cancel Complete Sl ID Created At Disburse Amount Payment Method Payout Date Status Action Default Method Estimated Pending Completed Canceled View Details Payment Information Disbursement ID Restaurant Information Name Contact Owner Information Email Account Information Payment Method Amount No Data Found Pay Via Online Faster & Secure Way To Pay Bill No Payment Gateway Found Close Proceed Adjust Wallet This Will Adjust The Collected Cash On Your Earning Currently There Are No Payment Options Available Please Contact Admin Regarding Any Payment Process Or Queries",
+        "bladePath": "vendor-views/wallet/disbursement",
+        "isModified": true
+    },
+    {
+        "routeName": "Withdraw Method",
+        "URI": "restaurant-panel/withdraw-method",
+        "keywords": "Restaurant Wallet Withdraw Method Setup Withdrawal Methods Ex Search By Name Add New Method Sl Payment Method Name Payment Info Default Action No Data Found Make Default Method Want To Delete This Role Delete Employee No Data Found Add Method Select Withdraw Method Cancel Submit",
+        "bladePath": "vendor-views/wallet-method/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Coupon Add New",
+        "URI": "restaurant-panel/coupon/add-new",
+        "keywords": "Add New Coupon Default Title Default New Coupon Coupon Type Free Delivery Code Limit For Same User Ex Start Date Expire Date Discount Type Amount Percent Discount Max Discount Min Purchase Reset Submit Coupon List Ex Search By Title Or Code Search Here Sl Type Total Uses Status Action Edit Coupon Want To Delete This Coupon Delete Coupon No Data Found No Data To Show",
+        "bladePath": "vendor-views/coupon/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Addon Add New",
+        "URI": "restaurant-panel/addon/add-new",
+        "keywords": "Add New Addon Default Name Ex Water Ex New Addon Price Stock Type Unlimited Stock Limited Stock Daily Stock Addon Stock Unlimited Reset Submit Addon List Ex Search By Addon Name Or Restaurant Name Sl Stock Available Stock Action Edit Addon Want To Delete This Addon Delete Addon No Data Found",
+        "bladePath": "vendor-views/addon/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Order Subscription",
+        "URI": "restaurant-panel/order/subscription",
+        "keywords": "Order Subscriptions Subscribed Orders See How It Works Search By Order ID Search Here # Order Id Customer Type Status Start Date Expire Date Action Order Not Found Invalid Customer Data View Subscription No Data Found Receive Order Prepare Food Deliver Food On The Requested Date Ensure Home Delivery Or Takeaway Delivery On Time Got It",
+        "bladePath": "vendor-views/order-subscription/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Restaurant Setup",
+        "URI": "restaurant-panel/business-settings/restaurant-setup",
+        "keywords": "Settings Restaurant Setup Close Restaurant Temporarily If Enabled This Restaurant Will Be Closed Temporarily And Hidden From Customer App And Web App Restaurant Owners Can Re Open This Restaurant Anytime By Turning Off This Button General Settings Scheduled Delivery With This Feature Enabled Customers Can Choose Their Preferred Delivery Time And Calendar Selection From Your Restaurant Want To Enable The Scheduled Delivery Option Want To Disable The If Enabled Customers Can Order Food On A Scheduled Basis From Your Restaurant If Disabled The Scheduled Order Option Will Be Hidden From Your Restaurant Home Delivery If Enabled Customers Can Order Food For Home Delivery If Disabled The Home Delivery Option Will Be Hidden From Your Restaurant Free Delivery If This Option Is On Customers Will Get Free Delivery If Enabled Customers Can Order Food For Free Delivery If Disabled The Free Delivery Option Will Be Hidden From Your Restaurant Takeaway If Enabled Customers Can Pick Up Their Food From Your Restaurant If Enabled Customers Can Place Takeaway/self Pickup Orders If Disabled The Takeaway Option Will Be Hidden From Your Restaurant Veg If Enabled Your Restaurant Will Be Shown On The Veg Restaurant Section Of The User App If Enabled Customers Can Find Your Restaurant In The Veg Restaurant List If Disabled Your Restaurant Will Be Hidden From The Veg Restaurant List Non Veg If Enabled Your Restaurant Will Be Shown On The Non Veg Restaurant Section Of The User App Subscription Based Order If Enabled Customers Can Place Subscription Based Orders From Your Restaurant If Enabled Customers Can Order Food On A Subscription Basis From Your Restaurant If Disabled The Subscription Based Order Option Will Be Hidden From Your Restaurant Cutlery If This Option Is On Customer Can Choose Cutlery In User App If Enabled Customers Can Order Food With Or Without Cutlery From Your Restaurant If Disabled The Cutlery Option Will Be Hidden From Your Restaurant Instant Order With This Feature Customers Can Order Instantly If Enabled Customers Can Order Instantly If Disabled Customers Can Not Order Instantly Custom Date Order Status With This Feature Customers Can Not Select Schedule Date Over The Given Days If Enabled Customers Can Not Select Schedule Date Over The Given Days And You Must Set A Date On The Customer Can Order Within Field If Disabled Customers Can Select Any Schedule Date Halal Tag Status If Enabled Customers Can See Halal Tag On Product Want To Enable Halal Tag Status For This Restaurant Want To Disable Halal Tag Status For This Restaurant If Disabled Customers Can Not See Halal Tag On Product Extra Packaging Charge By Enabling The Status Customer Will Get The Option For Choosing Extra Packaging Charge When Placing Order For Extra Package Offer Want To Enable The Extra Packaging Charge For This Restaurant Want To Disable The Extra Packaging Charge For This Restaurant If Disabled Customer Will Not Get The Option For Choosing Extra Packaging Charge When Placing Order For Extra Package Offer Dine In Want To Enable Dine In For This Restaurant Want To Disable Dine In For This Restaurant If Enabled Customers Can Make Dine In Orders From This Restaurant If Disabled Customers Can Make Dine In Orders From This Restaurant Basic Settings Extra Packaging Charge Leave The Input Box Empty To Not Offering Extra Packaging Charge Optional Mandatory Extra Packaging Charge Amount Customer Can Order Within Days Customers Can Not Select Schedule Date Over This Given Days Minimum Order Amount Specify The Minimum Order Amount Required For Customers When Ordering From This Restaurant Minimum Time For Dine In Order By Activating This Feature Customers Can Choose Their Advance Booking According To A Minute Or Hour Interval Set By The Admin Time Interval For Scheduled Delivery Min Hour Day Minimum Delivery Charge Delivery Charge Per Km Maximum Shipping Charge It Will Add A Limite On Total Delivery Charge Free Delivery Distance If The Order Distance Exceeds The Delivery Fee Will Be Free And The Delivery Fee Will Be Deducted From The Restaurant\u2019s Commission If Enabled The Free Delivery Distance Number Will Be Shown In The Invoice GST If Enabled The GST Number Will Be Shown In The Invoice Cuisine Choose Your Preferred Cuisines From The Drop Down Menu And Customers Can See Them In Your Restaurant Select Cuisine Cuisine Tags Set Restaurant Characteristics Select The Restaurant Type That Best Represents Your Establishment Reset Update Restaurant Meta Data Default Meta Title Meta Description Default Restaurant Meta Image Meta Image  Save Changes Restaurant Opening & Closing Schedules Create Schedule For Start Time End Time Submit Extra Packaging Charge Is Disable You Can Add Max Characteristics Want To Make Your Restaurant Available For All Want To Close Your Restaurant Temporarily If Yes This Restaurant Will Be Available For Customers In App And Web If Yes This Restaurant Will Be Unavailable For Customers In Apps And Web No Yes Want To Delete This Day\u2019s Schedule If Yes The Schedule Will Be Removed From Here However You Can Also Add Another One Schedule Removed Successfully Schedule Not Found Schedule Added Successfully",
+        "bladePath": "vendor-views/business-settings/restaurant-index",
+        "isModified": true
+    },
+    {
+        "routeName": "Notification Setup",
+        "URI": "restaurant-panel/business-settings/notification-setup",
+        "keywords": "Notification Setup From Here You Setup Who Can See What Types Of Notification From Sl Topics Push Notification Mail SMS N/A This Notification Turned Off By Admin Toggle Push Notification For Want To Enable The Push Notification For Want To Disable The Push Notification For Push Notification Will Be Enabled For Push Notification Will Be Disabled For This Mail Turned Off By Admin Toggle Mail For Want To Enable The Mail For Want To Disable The Mail For Mail Will Be Enabled For Mail Will Be Disabled For This Sms Turned Off By Admin Toggle SMS For Want To Disable The SMS For SMS Will Be Enabled For SMS Will Be Disabled For",
+        "bladePath": "vendor-views/business-settings/notification-index",
+        "isModified": true
+    },
+    {
+        "routeName": "Profile View",
+        "URI": "restaurant-panel/profile/view",
+        "keywords": "Profile Settings Settings Dashboard Nav Menu Basic Information Password Full Name Your First Name Your Last Name Phone Optional Email Enter New Email Address You Want To Update User Info Save Changes Change Your Password New Password Must Contain At Least One Number And One Uppercase And Lowercase Letter And Symbol And At Least Or More Characters Enter New Password Confirm Password Confirm New Password Save Changes",
+        "bladePath": "vendor-views/profile/index",
+        "isModified": true
+    },
+    {
+        "routeName": "Restaurant View",
+        "URI": "restaurant-panel/restaurant/view",
+        "keywords": "Restaurant View Shop Details Created At Edit Shop Business Model Commission Base Not Chosen Subscription Admin Commission VAT/TAX Phone Address Announcement This Announcement Shown In The User App/web Ex ABC Company Publish Status Can Not Be Updated Restaurant Settings Updated!",
+        "bladePath": "vendor-views/shop/shopInfo",
+        "isModified": true
+    },
+    {
+        "routeName": "QR View",
+        "URI": "restaurant-panel/restaurant/qr-view",
+        "keywords": "Restaurant Qr Code QR Menu Setup How It Works QR Card Information Menu Content Template Edit Logo Format Jpg Png Jpeg Maximum Size MB Ratio General Info Title Ex Title Subtitle Ex Subtitle Contact Info Phone Email Bottom Section Color Select Color Bottom Section Text Color Top Section Background Description Ex Description Ex + Website Link Ex Www Website Com Reset Save QR Card Design Print Scan Me View Our Menu Check Our Menu Online Just Open Your Phone & Scan This QR Code Call Us Mail Us What Is QR Code How It Work Now Go The Firebase Console And Follow The Instructions Below Navigate To The Build Menu From The Left Sidebar And Select Authentication How To Make Restaurant QR Code",
+        "bladePath": "vendor-views/shop/qrcode",
+        "isModified": true
+    },
+    {
+        "routeName": "Subscriber Detail",
+        "URI": "restaurant-panel/subscription/subscriber-detail",
+        "keywords": "Restaurant Subscription Business Plan Business Details Transactions Subscription Refunds Overview Commission Base Plan Commission Per Order Restaurant Will Pay Commission To From Each Order You Will Get Access Of All The Features And Options In Restaurant Panel App And Interaction With User Change Business Plan Subscription Expired Canceled Active Subscription Details Billing Expire Date Total Bill Number Of Uses Package Overview Days Unlimited Orders Orders Left POS Mobile App Self Delivery Unlimited Item Upload Product Upload Review Chat If You Cancel The Subscription After Days The You Will No Longer Be Able To Run The Business Before Subscribe A New Plan Cancel Subscription Change / Renew Subscription Plan Chose Business Plan Chose A Business Plan From The List So That Restaurants Get More Options To Join The Business For The Growth And Success Chose A Business Chose A Business Plan To Get Better Experience! Commission Base Current Plan You Want To Migrate To Commission You Will Get To Your Wallet For Remaining Days Subscription Plan Shift In This Plan Days Mobile App Chatting Options Review Section Unlimited Orders Unlimited Uploads Uploads Purchase Renew Are You Sure You Want To Switch To This Plan You Are About To Downgrade Your Plan After Subscribing To This Plan Your Oldest Items Will Be Inactivated Go Back Are You Sure No Yes Successfully Canceled The Subscription Successfully Switched To Commission",
+        "bladePath": "vendor-views/subscription/subscriber/vendor-subscription",
+        "isModified": true
+    },
+    {
+        "routeName": "Subscriber Wallet Transactions",
+        "URI": "restaurant-panel/subscription/subscriber-wallet-transactions",
+        "keywords": "Restaurant Transactions Subscription Expired Canceled Active Subscription Details Transactions Subscription Refunds Transaction History All Renewal Migrate To New Plan Purchased Ex Search By Transaction ID Or Restaurant Name Export Download Options Excel Csv Sl Transaction Date Package Name Refund Amount Refunded For Status Days Success No Data Found",
+        "bladePath": "vendor-views/subscription/subscriber/wallet-transaction",
+        "isModified": true
+    },
+    {
+        "routeName": "Expense Report",
+        "URI": "restaurant-panel/report/expense-report",
+        "keywords": "Expense Report Vendor Expense Report Discription Search Data All Time This Year Previous Year This Month This Week Custom Start Date End Date Filter Expense Lists Search By Order ID Export Download Options Excel Csv Sl Order Id Date & Time Expense Type Customer Name Expense Amount Invalid Order Data Invalid Customer Data No Data Found",
+        "bladePath": "vendor-views/report/expense-report",
+        "isModified": true
+    },
+    {
+        "routeName": "Transaction Report",
+        "URI": "restaurant-panel/report/transaction-report",
+        "keywords": "Transaction Report Search Data All Time This Year Previous Year This Month This Week Custom Start Date End Date Filter Completed Transaction When The Order Is Successfully Delivered Full Order Amount Goes To This Section On Hold Transaction The On Going Orders Refunded Transaction If The Order Is Successfully Refunded The Full Order Amount Goes To This Section Without The Delivery Fee And Delivery Tips Order Transactions Search By Order ID Export Download Options Excel Csv Sl Order Id Restaurant Customer Name Total Item Amount Item Discount Coupon Discount Referral Discount Discounted Amount Vat/tax Delivery Charge Order Amount Admin Discount Restaurant Discount Admin Commission Additional Charge Extra Packaging Amount Commision On Delivery Charge Admin Net Income Restaurant Net Income Amount Received By Payment Method Payment Status Action Invalid Customer Data Admin Delivery Man Freelance Refunded Completed No Data Found",
+        "bladePath": "vendor-views/report/day-wise-report",
+        "isModified": true
+    },
+    {
+        "routeName": "Order Report",
+        "URI": "restaurant-panel/report/order-report",
+        "keywords": "Order Report Search Data All Time This Year Previous Year This Month This Week Custom Start Date End Date Filter Scheduled Orders Pending Orders Accepted Orders Processing Orders Food On The Way Delivered Canceled Payment Failed Refunded Total Orders Search By Order ID Export Download Options Excel Csv Sl Order Id Restaurant Customer Name Total Item Amount Item Discount Coupon Discount Referral Discount Discounted Amount Tax Delivery Charge Additional Charge Extra Packaging Amount Order Amount Amount Received By Payment Method Order Status Action Invalid Invalid Customer Data Paid Unpaid Not Received Yet Pending Confirmed Processing Out For Delivery Completed Delivered Payment Failed Handover Canceled Accepted No Data Found",
+        "bladePath": "vendor-views/report/order-report",
+        "isModified": true
+    },
+    {
+        "routeName": "Campaign Order Report",
+        "URI": "restaurant-panel/report/campaign-order-report",
+        "keywords": "Food Camapign Order Report Search Data All Campaignes All Time This Year Previous Year This Month This Week Custom Start Date End Date Filter Total Orders Total Order Amount In Progress Orders Including Accepted And Processing Orders On The Way Delivered Orders Failed Orders Refunded Orders Canceled Orders Total Orders Search By Order ID Export Download Options Excel Csv Sl Order Id Restaurant Customer Name Total Item Amount Item Discount Coupon Discount Discounted Amount Tax Delivery Charge Order Amount Amount Received By Payment Method Order Status Action Invalid Invalid Customer Data Paid Unpaid Not Received Yet Pending Confirmed Processing Out For Delivery Completed Delivered Payment Failed Handover Canceled Accepted No Data Found",
+        "bladePath": "vendor-views/report/campaign_order-report",
+        "isModified": true
+    },
+    {
+        "routeName": "Food Wise Report",
+        "URI": "restaurant-panel/report/food-wise-report",
+        "keywords": "Food Report Search Data All Categories Select Type All Types Veg Non Veg All Time This Year Previous Year This Month This Week Custom Start Date End Date Filter Sales Statistics Average Monthly Sales Value Average Daily Sales Value Average Yearly Sales Value Currency Food Report Table Search By Food Name Search Here Export Download Options Excel Csv Sl Name Order Count Price Total Amount Sold Total Discount Given Average Sale Value Average Ratings No Data Found Total Amount Sold",
+        "bladePath": "vendor-views/report/food-wise-report",
+        "isModified": true
+    },
+    {
+        "routeName": "Disbursement Report",
+        "URI": "restaurant-panel/report/disbursement-report",
+        "keywords": "Disbursement Report Pending Disbursements All The Pending Disbursement Requests That Require Admin\u2019s Action (complete/cancel) Completed Disbursements The Amount Of Disbursement Is Completed Cancele Transactions See All The Canceled Disbursement Amounts Here Search Data Select Payment Method All Payment Method Select Status All Status Pending Completed Canceled All Time This Year Previous Year This Month This Week Custom Start Date End Date Filter Total Disbursements Search By Id Export Download Options Excel Csv Sl Id Created At Disburse Amount Payment Method Status Default Method Completed No Data Found",
+        "bladePath": "vendor-views/report/disbursement-report",
+        "isModified": true
+    }
+]

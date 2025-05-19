@@ -1,0 +1,45 @@
+
+#map {
+    height: 350px;
+}
+@media only screen and (max-width: 768px) {
+
+    #map {
+        height: 200px;
+    }
+}
+
+.form-container {
+    box-shadow: 4px 4px 10px rgba(65, 83, 179, 0.15);
+    border-radius: 8px;
+    border: 2px solid #b3bac3;
+    padding: 0.625rem;
+}
+
+.row-margin-top {
+    margin-top: 20px;
+}
+
+.cover-photo {
+    margin-inline-start: 150px;
+}
+
+.restaurant-logo {
+    margin-inline-start: 100px;
+    margin-inline-end: 150px;
+}
+
+.store-svg-logo{
+    enable-background:new 0 0 512 512;
+}
+.w-100{
+    width: 100%;
+}
+.recap-img-div{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+.recap-img{
+    width: 100%;
+    border-radius: 4px;
+}
