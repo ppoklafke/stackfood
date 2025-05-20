@@ -3,6 +3,9 @@
 use Illuminate\Support\Facades\Route;
 use App\WebSockets\Handler\DMLocationSocketHandler;
 use BeyondCode\LaravelWebSockets\Facades\WebSocketsRouter;
+use App\Http\Controllers\MercadoPagoController;
+use App\Http\Controllers\PaymentController;
+use App\Http\Controllers\PaymentRequestController;
 
 /*
 |--------------------------------------------------------------------------
@@ -258,8 +261,7 @@ Route::group(['namespace' => 'Api\V1', 'middleware'=>['localization','react']], 
         Route::put('send-order-otp', 'VendorController@send_order_otp');
         Route::put('add-dine-in-table-number/{order}', 'VendorController@add_dine_in_table_number');
     });
-
-
+        
     Route::group(['prefix' => 'config'], function () {
         Route::get('/', 'ConfigController@configuration');
         Route::get('/get-zone-id', 'ConfigController@get_zone');
@@ -274,6 +276,9 @@ Route::group(['namespace' => 'Api\V1', 'middleware'=>['localization','react']], 
 
     Route::get('customer/order/cancellation-reasons', 'OrderController@cancellation_reason');
     Route::get('customer/order/send-notification/{order_id}', 'OrderController@order_notification')->middleware('apiGuestCheck');
+
+    //MercadoPago
+    Route::post('/mercadopago/webhook', [MercadoPagoController::class, 'webhook']);
 
     Route::group(['prefix' => 'products'], function () {
         Route::get('latest', 'ProductController@get_latest_products');
